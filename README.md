@@ -8,3 +8,5 @@ I'm Tendani Mamadi, a web development enthusiast. I'm currently diving deep into
 
 Let's connect and learn together! 🌟
 
+![Tendani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TendaniMamadi&show_icons=true&theme=github_dark)
+
