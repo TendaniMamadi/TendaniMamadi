@@ -1,4 +1,5 @@
-![Purple Geometric Technology LinkedIn Banner (1)](https://github.com/TendaniMamadi/TendaniMamadi/assets/125261636/cf08cf47-31ca-4157-85a3-d859c7e89b84)
+![Purple Geometric Technology LinkedIn Banner (2)](https://github.com/TendaniMamadi/TendaniMamadi/assets/125261636/34fbd650-831c-4d86-8cd2-cf2c9f3c5174)
+
 
 ### Hi there 👋
 
