@@ -8,5 +8,7 @@ I'm Tendani Mamadi, a web development enthusiast. I'm currently diving deep into
 
 Let's connect and learn together! 🌟
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&weight=500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=420&height=42&lines=%F0%9F%9B%A0%EF%B8%8F+Languages+and+Tools+%F0%9F%9B%A0%EF%B8%8F)](https://git.io/typing-svg)
+
 ![Tendani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TendaniMamadi&show_icons=true&theme=github_dark)
 
