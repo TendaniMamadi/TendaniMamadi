@@ -7,8 +7,6 @@ I'm Tendani Mamadi, a web development enthusiast. I'm currently diving deep into
 
 🚀 I'm on a journey to enhance my coding skills and create exciting projects. Currently, I'm exploring the power of databases with PostgreSQL and experimenting with responsive design using Bootstrap.
 
-💼 In my free time, you can find me working on personal web projects or sharing my insights on web development through my social media pages.
-
 Let's connect and learn together! 🌟
 
 
